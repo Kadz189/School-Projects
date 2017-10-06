@@ -1,0 +1,145 @@
+body{
+  margin:110px;
+  background-color: LightGoldenRodYellow ;
+
+}
+
+p{
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+}
+
+
+h1{
+  font-weight: 800;
+}
+
+.objective{
+opacity:.45;
+text-align: justify;
+}
+
+.picture{
+position: absolute;
+margin:50px;
+right:10px;
+top:0px;
+transform:rotate(-12deg);
+}
+
+.verticalLineEducation {
+    border-left: 4px solid black;
+    height: 70px;
+    position: absolute;
+    left: 320px;
+    top:420px;
+    opacity:0.45;
+}
+
+
+.verticalLineSkill {
+    border-left: 4px solid black;
+    height: 70px;
+    position: absolute;
+    left: 320px;
+    top:550px;
+    opacity:0.45;
+}
+
+.verticalLineExperience{
+    border-left: 4px solid black;
+    height: 70px;
+    position: absolute;
+    left: 320px;
+    top:680px;
+    opacity:0.45;
+}
+
+.verticalLineHobby {
+    border-left: 4px solid black;
+    height: 70px;
+    position: absolute;
+    left: 320px;
+    top:920px;
+    opacity:0.45;
+}
+
+.verticalLineRef {
+    border-left: 4px solid black;
+    height: 70px;
+    position: absolute;
+    left: 320px;
+    top:1050px;
+    opacity:0.45;
+}
+
+
+.Education{
+font-family: "Arial", sans-serif;
+margin: 100px;
+float:left;
+}
+
+.Skill{
+font-family: "Arial", sans-serif;
+margin-top: 70px;
+float:left;
+}
+
+.Experience{
+font-family: "Arial", sans-serif;
+float:left;
+margin-top:70px;
+}
+
+.Ref{
+font-family: "Arial", sans-serif;
+float:left;
+margin-top:75px;
+}
+
+.Hobby{
+font-family: "Arial", sans-serif;
+float:left;
+margin-top:175px;
+}
+
+.EducationText{
+  position: absolute;
+  left: 340px;
+  top:400px;
+  font-weight: normal;
+  float:right;
+}
+
+.SkillText{
+  position: absolute;
+  left: 340px;
+  top:530px;
+  font-weight: normal;
+  float:right;
+}
+
+.ExperienceText{
+  position: absolute;
+  left: 340px;
+  top:660px;
+  font-weight: normal;
+  float:right;
+}
+
+.RefText{
+  position: absolute;
+  left: 340px;
+  top:1030px;
+  font-weight: normal;
+  float:right;
+}
+
+.HobbyText{
+  position: absolute;
+  left: 340px;
+  top:900px;
+  font-weight: normal;
+  float:right;
+}
